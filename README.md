@@ -58,10 +58,27 @@ No selling, no monetization, no exploitation.
 - [ ] Video/voice module
 - [ ] Native app build with Capacitor
 - [ ] Encrypted file sharing
+
+
+## 👥 Contributors to RavenCo Chatting Application
+
+### 🧑‍💻 The Legend Developers
+
+| Avatar | Name            | Role                  | GitHub Profile                                    | Contributions                            |
+|--------|-----------------|-----------------------|--------------------------------------------------|-------------------------------------------|
+| ![](https://github.com/.png)     |         |      | []()           |      |
+| ![](https://github.com/.png?size=25)   |       |     | []()       |            |
+
+### 🎨 Creative Designers
+
+| Avatar | Name            | Role                   | Portfolio / GitHub                               | Contributions                              |
+|--------|-----------------|------------------------|--------------------------------------------------|---------------------------------------------|
+| ![]()   |       |          | []()       |                 |
+
 ---
 ## Marshmallow.Projects
 - Official Facebook Page - [Marshmallow Projects](https://www.facebook.com/Marshmallow.Projects)
 - Instagram Handle - [@marshmallow.projects](https://www.instagram.com/marshmallow.projects/)
 - Github - [Marshmallow-Projects](github.com/Marshmallow-Projects)
 
-![Portfolio Footer](https://github.com/user-attachments/assets/6cb0f24f-16e2-4252-9240-b854d57bf035)
+![Portfolio Footer](https://github.com/user-attachments/assets/6cb0f24f-16e2-4252-9240-b854d57bf035)  
