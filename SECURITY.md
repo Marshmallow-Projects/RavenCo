@@ -17,8 +17,8 @@ If you discover a security vulnerability, please **do not open a public issue**.
 
 1. **Reach us directly:**  
    Send a detailed report to one of official social media channel
-     - **[Facebook]**(https://www.facebook.com/Marshmallow.Projects)
-     - **[Instagram]**(https://www.instagram.com/marshmallow.projects/)
+     - [Facebook](https://www.facebook.com/Marshmallow.Projects)
+     - [Instagram](https://www.instagram.com/marshmallow.projects/)
 
 3. **Include the following details and send as a PDF file:**  
    - Description of the vulnerability  
