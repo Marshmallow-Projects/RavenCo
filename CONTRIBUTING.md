@@ -65,7 +65,7 @@ Have an idea or suggestion?
 Jump into [Discussions](https://github.com/Marshmallow-Projects/RavenCo/discussions/1) and post your thoughts.
 
 ## 📜 Legal & Licensing
-By contributing, you agree to our (LICENSE)[https://github.com/Marshmallow-Projects/RavenCo/blob/Live/LICENSE] — this is a **non-commercial**, open-source project.  
+By contributing, you agree to our [LICENSE](https://github.com/Marshmallow-Projects/RavenCo/blob/Live/LICENSE) — this is a **non-commercial**, open-source project.  
 
 You may not use RavenCo or its forks to build a paid product, ad-supported app, or monetized SaaS platform. Ever.
 
