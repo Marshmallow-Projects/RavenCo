@@ -27,7 +27,7 @@ We’re building this in the open, and you’re invited to help.
 1. **Fork the repo**
 2. Clone your fork:
    ```bash
-   git clone https://github.com/yourusername/MeloChat.git
+   git clone https://github.com/Marshmallow-Projects/RavenCo
    cd RavenCo
 3. Create a new branch:
    ```bash
